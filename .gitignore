@@ -1,0 +1,4 @@
+*.orig
+
+# Mac Os temp file
+.ds_store
